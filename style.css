@@ -1,0 +1,73 @@
+html {
+  	background-color:  #A01028; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   
+
+} 
+
+
+.main {
+	text-align: center;
+	margin-top: 5em;
+	
+
+}
+
+.h1 {
+	color: #000000;
+	font-family: Montserrat-Bold;
+	font-size: 40px ; /**72 / 16**/
+	letter-spacing: 0;
+	margin-top: 1.5em;
+	
+} /**DATASCHEF**/
+
+.h2 {
+	font-family: SourceSansPro-Regular;
+	font-size: 16px;
+	color: #FFFFFF;
+	letter-spacing: 0.35px;
+}
+
+.favicon img {
+	width: 35%;
+	height: auto;
+	margin-top: 1em;
+	
+}
+
+.favicon p{
+	text-align: center;
+
+}
+
+.footer {	
+	 background-color: #000000;
+	font-family: SourceSansPro-Semibold;
+	font-size: 12px;
+	color: #FFFFFF;
+	letter-spacing: 0;
+	line-height: 24px;
+	text-align: center;
+	position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   
+    
+
+
+
+}
+
+.footer a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.footer a:hover {
+	text-decoration: underline;
+}

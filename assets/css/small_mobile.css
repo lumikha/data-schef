@@ -1,0 +1,30 @@
+@media only all and (max-width: 320px)   
+{	
+	.main {
+		margin-top: 2em;
+	}
+
+	.h1 {
+		font-size: 32px;
+		margin-top: 0em;
+		
+	}
+
+	.h2 {
+
+		font-size: 12px;
+	
+	}
+
+	.favicon img {
+		margin-top: 0;
+		max-width: 15%;
+	}
+
+	.footer {
+		font-size: 10px;
+		line-height: 0;
+
+	}
+
+}
